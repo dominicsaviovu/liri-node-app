@@ -16,4 +16,5 @@ The APIs that was used were, Spotify (music), OMDB (movies), and the site bandsi
 
 ## Examples/Screenshots
 
+https://github.com/dominicsaviovu/liri-node-app/blob/master/images/concert.png
 
